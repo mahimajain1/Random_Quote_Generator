@@ -1,4 +1,4 @@
-# Random Colour Generator
+# Random Quote Generator
 
 A Login Form built with HTML5, CSS3, Javascript and API.
 
